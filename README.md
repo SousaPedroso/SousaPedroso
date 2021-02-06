@@ -28,8 +28,8 @@ I am Gabriel de Sousa and I am currently studying Computer Science at UFMT, wher
 ### Projects
 Here are some of my main projects done.
 - :video_game: [Friendly NIM game withou GUI](https://github.com/SousaPedroso/JogoDoNim)
-- <img src="https://www.flaticon.com/svg/vstatic/svg/3874/3874176.svg?token=exp=1611685942~hmac=149ca56499f3be159c89b5e6e6249553" height=19 width=19> [Quiz about Neural Networks](https://github.com/SousaPedroso/NeuralNetworksQuiz)
+- <img src="https://www.flaticon.com/svg/vstatic/svg/3406/3406808.svg?token=exp=1612633828~hmac=9ada1521de794d2576539c8efb9345d6" height=19 width=19> [Quiz about Neural Networks](https://github.com/SousaPedroso/NeuralNetworksQuiz)
 
 ### Contact
 * :email: contato.gabrieldesousagp@gmail.com
-* <img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1611685019~hmac=5f1b73d9c171ae554ea6b748252a3e78" height=19 width=19> https://www.linkedin.com/in/gabriel-de-sousa-gomes-pedroso-3b358219b/
+* <img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612633729~hmac=75d1eb9451f5c24bc709e7e07be8f33c" height=19 width=19> https://www.linkedin.com/in/gabriel-de-sousa-gomes-pedroso-3b358219b/
