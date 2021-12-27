@@ -36,6 +36,9 @@ Here are some of my main projects done.
 - :video_game: [Friendly NIM game withou GUI](https://github.com/SousaPedroso/JogoDoNim)
 - <img src="https://www.flaticon.com/svg/vstatic/svg/3406/3406808.svg?token=exp=1612633828~hmac=9ada1521de794d2576539c8efb9345d6" height=19 width=19> [Quiz about Neural Networks](https://github.com/SousaPedroso/NeuralNetworksQuiz)
 
+### Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SousaPedroso)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contact
 * :email: contato.gabrieldesousagp@gmail.com
 * <img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612633729~hmac=75d1eb9451f5c24bc709e7e07be8f33c" height=19 width=19> https://www.linkedin.com/in/gabriel-de-sousa-gomes-pedroso-3b358219b/
