@@ -34,7 +34,7 @@ I am Gabriel de Sousa, currently studying Computer Science at UFMT and I also ha
 ### Projects
 Here are some of my main projects done.
 - :video_game: [Friendly NIM game withou GUI](https://github.com/SousaPedroso/JogoDoNim)
-- :desktop_computer: [Bercrowd problems solutions](https://www.beecrowd.com.br/)
+- :desktop_computer: [Bercrowd problems solutions](https://github.com/SousaPedroso/URI_Online_Judge_Solutions)
 
 ### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SousaPedroso)](https://github.com/anuraghazra/github-readme-stats)
