@@ -1,6 +1,6 @@
 <h1 align="center"> Hi :wave::smile: </h1>
 
-I am Gabriel de Sousa and I am currently studying Computer Science at UFMT, where I also have a Scientific Initiation scholarship.
+I am Gabriel de Sousa, currently studying Computer Science at UFMT and I also have a Scientific Initiation scholarship by [FAPEMAT](http://www.fapemat.mt.gov.br/).
 ### About me
 * 20 years old
 * Cuiabano
@@ -29,16 +29,16 @@ I am Gabriel de Sousa and I am currently studying Computer Science at UFMT, wher
 * Quantum Computing
 * Information Security
 * Data Science
-* Web development
+* Artificial Intelligence
 
 ### Projects
 Here are some of my main projects done.
 - :video_game: [Friendly NIM game withou GUI](https://github.com/SousaPedroso/JogoDoNim)
-- <img src="https://www.flaticon.com/svg/vstatic/svg/3406/3406808.svg?token=exp=1612633828~hmac=9ada1521de794d2576539c8efb9345d6" height=19 width=19> [Quiz about Neural Networks](https://github.com/SousaPedroso/NeuralNetworksQuiz)
+- :desktop_computer: [Bercrowd problems solutions](https://www.beecrowd.com.br/)
 
 ### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SousaPedroso)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact
 * :email: contato.gabrieldesousagp@gmail.com
-* <img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612633729~hmac=75d1eb9451f5c24bc709e7e07be8f33c" height=19 width=19> https://www.linkedin.com/in/gabriel-de-sousa-gomes-pedroso-3b358219b/
+* :link: [Linkedin](https://www.linkedin.com/in/gabriel-de-sousa-gomes-pedroso-3b358219b/)
