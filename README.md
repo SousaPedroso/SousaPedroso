@@ -2,7 +2,7 @@
 
 I am Gabriel de Sousa, currently studying Computer Science at UFMT and I also have a Scientific Initiation scholarship by [FAPEMAT](http://www.fapemat.mt.gov.br/).
 ### About me
-* 20 years old
+* 21 years old
 * Cuiabano
 * Passionate about learning
 
