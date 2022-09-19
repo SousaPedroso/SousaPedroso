@@ -20,7 +20,7 @@ I am Gabriel de Sousa, currently studying Computer Science at UFMT and I also ha
 - :pushpin: __Activities__: Time series and image data manipulation,  _CNN_ model optimization for data validation, post-processing techniques and writing scientific reports.
 
 #### Scientific Initiation scholarship
-- :hourglass: __Duration__: 08/2021-Currently
+- :hourglass: __Duration__: 09/2021-08/2022
 - :briefcase: __Location__: UFMT.
 - :memo: Work plan __title__: Classificadores de Inteligência Artificial para reconhecer aves do Pantanal.
 - :pushpin: __Activities__: Time series and image data manipulation, Machine Learning Models implementation as Support Vector Machine, Hidden Markov Models and Deep Neural Networks, processing techniques and writing scientific reports.
