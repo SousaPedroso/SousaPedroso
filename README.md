@@ -37,7 +37,7 @@ Here are some of my main projects done.
 - :desktop_computer: [Beecrowd problems solutions](https://github.com/SousaPedroso/URI_Online_Judge_Solutions)
 
 ### Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SousaPedroso)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-cet5-sousapedroso.vercel.app/api?username=SousaPedroso)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact
 * :email: contato.gabrieldesousagp@gmail.com
