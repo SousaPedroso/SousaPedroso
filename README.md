@@ -2,7 +2,7 @@
 
 I am Gabriel de Sousa, associate Data Scientist certified by [Datacamp](https://www.datacamp.com/), currently studying Computer Science at UFMT and I also have a Scientific Initiation scholarship by [CNPq](https://www.gov.br/cnpq/pt-br).
 ### About me
-* 22 years old
+* 21 years old
 * Cuiabá (Brazil, state of Mato Grosso)
 * Passionate about learning
 
