@@ -1,44 +1,38 @@
 <h1 align="center"> Hi :wave::smile: </h1>
 
-I am Gabriel de Sousa, currently studying Computer Science at UFMT and I also have a Scientific Initiation scholarship by [FAPEMAT](http://www.fapemat.mt.gov.br/).
+I am Gabriel de Sousa, associate Data Scientist certified by [Datacamp](https://www.datacamp.com/), currently studying Computer Science at UFMT and I also have a Scientific Initiation scholarship by [CNPq](https://www.gov.br/cnpq/pt-br).
 ### About me
-* 21 years old
-* Cuiabano
+* 22 years old
+* Cuiabá (Brazil, state of Mato Grosso)
 * Passionate about learning
-
-### Experience
-#### Scientific Initiation scholarship
-- :hourglass: __Duration__: 10/2019-09/2020.
-- :briefcase: __Location__: UFMT
-- :memo: Work plan __title__: Classificação de espécies com Inteligência Artificial.
-- :pushpin: __Activities__: Collection of bioacoustic data from the Pantanal, manipulation and mining of time series data and images, creation of _CNN_ models for training, testing and validating the data, post-processing techniques and writing scientific reports.
-
-#### Scientific Initiation scholarship
-- :hourglass: __Duration__: 09/2020-08/2021
-- :briefcase: __Location__: UFMT.
-- :memo: Work plan __title__: Redes Neurais Convolucionais Aplicadas à Classificação de dados de Bioacústica.
-- :pushpin: __Activities__: Time series and image data manipulation,  _CNN_ model optimization for data validation, post-processing techniques and writing scientific reports.
-
-#### Scientific Initiation scholarship
-- :hourglass: __Duration__: 09/2021-08/2022
-- :briefcase: __Location__: UFMT.
-- :memo: Work plan __title__: Classificadores de Inteligência Artificial para reconhecer aves do Pantanal.
-- :pushpin: __Activities__: Time series and image data manipulation, Machine Learning Models implementation as Support Vector Machine, Hidden Markov Models and Deep Neural Networks, processing techniques and writing scientific reports.
 
 ### Interests
 * Quantum Computing
 * Information Security
 * Data Science
 * Artificial Intelligence
+* Competitive Programming
 
-### Projects
-Here are some of my main projects done.
-- :video_game: [Friendly NIM game withou GUI](https://github.com/SousaPedroso/JogoDoNim)
-- :desktop_computer: [Beecrowd problems solutions](https://github.com/SousaPedroso/URI_Online_Judge_Solutions)
+### Activity
+<div>
+  <img height="180em" src="https://github-readme-stats-sousapedroso.vercel.app/api?username=SousaPedroso&show_icons=true&theme=dracula&include_all_commits=true">
+  <img height="180em" src="https://github-readme-stats-sousapedroso.vercel.app/api/top-langs/?username=SousaPedroso&langs_count=10&layout=compact&theme=dracula">
+</div>
 
-### Stats
-[![Anurag's GitHub stats](https://github-readme-stats-sousapedroso.vercel.app/api?username=SousaPedroso)](https://github.com/anuraghazra/github-readme-stats)
+### Stack
+
+<div>
+  <img align="center" alt="pythonIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="numpyIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="pandasIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="postgresqlIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="mysqlIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="tensorflowIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+</div>
 
 ### Contact
-* :email: contato.gabrieldesousagp@gmail.com
-* :link: [Linkedin](https://www.linkedin.com/in/gabriel-de-sousa-gomes-pedroso-3b358219b/)
+<div>
+  <a href="mailto:contato.gabrieldesousagp@gmail.com" target="_blank"><img alt="emailContat" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sousapedroso/" target="_blank"><img alt="linkedinProfile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.kaggle.com/gdmito" target="_blank"><img alt="kaggleProfile" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+</div>
