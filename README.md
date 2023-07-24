@@ -1,6 +1,6 @@
 <h1 align="center"> Hi :wave::smile: </h1>
 
-I am Gabriel de Sousa, [professional Data Scientist](https://www.datacamp.com/certificate/DS0026495155470) certified by [Datacamp](https://www.datacamp.com/), currently studying Computer Science at UFMT and I am doing an undergraduate research program with funding from a scholarship by [CNPq](https://www.gov.br/cnpq/pt-br).
+I am Gabriel de Sousa, [professional Data Scientist](https://www.datacamp.com/certificate/DS0026495155470) certified by [Datacamp](https://www.datacamp.com/), bachelor's degree in Computer Science from UFMT.
 ### About me
 * 22 years old
 * Cuiabá (Brazil, state of Mato Grosso)
