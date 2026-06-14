@@ -2,7 +2,6 @@
 
 I am Gabriel de Sousa, currently working at Federação das Indústria no Estado de Mato Grosso (Mato Grosso- Brazil) as a Data Engineer and I am a [professional Data Scientist](https://www.datacamp.com/certificate/DS0026495155470) certified by [Datacamp](https://www.datacamp.com/) with bachelor's degree in Computer Science from UFMT.
 ### About me
-* 23 years old
 * Cuiabá (Brazil, state of Mato Grosso)
 * Passionate about learning
 
